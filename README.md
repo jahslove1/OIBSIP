@@ -1,3 +1,3 @@
 # OIBSIP
-# Oasis Internship
+# Oasis Infobyte Internship
 # Data Analytics
